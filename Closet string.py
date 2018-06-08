@@ -1,3 +1,12 @@
+#Description
+#In theoretical computer science, the closest string is an NP-hard computational problem, 
+#which tries to find the geometrical center of a set of input strings. 
+#To understand the word "center", it is necessary to define a distance between two strings. 
+#Usually, this problem is studied with the Hamming distance in mind. This center must be one of the input strings.
+#In bioinformatics, the closest string problem is an intensively studied facet of the problem of finding signals in DNA. 
+#In keeping with the bioinformatics utility, we'll use DNA sequences as examples.
+
+
 lista=[]
 pocetak=[]
 zbroj_promjena=[]
