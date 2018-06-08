@@ -1,3 +1,10 @@
+#Description
+#You have an enormous book collection and want to buy some shelfs. 
+#You go to a bookshelfstore and they sell all kinds of shelfs. 
+#The wierd part is, some shelfs are different in length but they all cost the same.
+#You now want to puzzle your collection so that you can fit as many books on the least number of shelfs
+
+
 sve_knjiga=[]
 v_knjige=[]
 x=0
